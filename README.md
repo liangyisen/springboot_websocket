@@ -5,12 +5,12 @@
 ```
 <!--web-->
 <dependency>   
-	<groupId>org.springframework.boot</groupId>
+    <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-web</artifactId>
 </dependency>
 <!--websocket-->
 <dependency>    
-	<groupId>org.springframework.boot</groupId>    
-	<artifactId>spring-boot-starter-websocket</artifactId>
+    <groupId>org.springframework.boot</groupId>    
+    <artifactId>spring-boot-starter-websocket</artifactId>
 </dependency>
 ```
